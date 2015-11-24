@@ -1,0 +1,1 @@
+print pow(input(),input()) + pow(input(),input())
